@@ -28,7 +28,6 @@ twitter_username: pjhartzell
 github_username:  pjhartzell
 
 # Build settings
-markdown: kramdown
 theme: Minima
 plugins:
   - jekyll-feed
